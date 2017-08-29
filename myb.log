@@ -1,0 +1,28 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2016.5.24)  24 MAY 2016 21:30
+entering extended mode
+**D:/Personal*File/Study/Research/Smart/24*may*2016/ICIEV*2016*SDNS/myb.bib
+("D:/Personal File/Study/Research/Smart/24 may 2016/ICIEV 2016 SDNS/myb.bib"
+Overfull \hbox (3.9127pt too wide) in paragraph at lines 10--25
+\tenrm So-cial Dis-as-ters, au-thor=Teodorescu, Horia-Nicolai, jour-nal=Procedi
+a En-gi-neer-ing, vol-ume=107, pages=325--|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm S
+.\discretionary replacing 2
+..\tenrm o
+..\tenrm -
+.\tenrm o
+.\kern0.27779
+.\tenrm c
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.37   month=apr #
+                   "~21",
+? 
+! Emergency stop.
+l.37   month=apr #
+                   "~21",
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
